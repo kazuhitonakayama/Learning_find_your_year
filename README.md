@@ -4,11 +4,11 @@ This application converts the year into the year of Reiwa, the year of Heisei, a
 ## How to run in your local
 It's simple.
 
-1:Install 'findYourYear.java' to your local
+1:Install ``findYourYear.java`` to your local
 
-2:Then,execute the command ''javac findYourYear.java'' in your terminal.
+2:Then,execute the command ``javac findYourYear.java`` in your terminal.
 
-3:At last,run ''java findYourYear''
+3:At last,run ``java findYourYear``
 
 
 ## Lisence
