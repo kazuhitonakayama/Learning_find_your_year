@@ -10,6 +10,9 @@ It's simple.
 
 3:At last,run ``java findYourYear``
 
+## Screenshot
+![image](https://user-images.githubusercontent.com/50609459/115490429-099e5700-a299-11eb-9b52-ae3a89624960.png)
+
 
 ## Lisence
 MIT  
